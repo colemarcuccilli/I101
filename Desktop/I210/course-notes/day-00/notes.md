@@ -1,0 +1,3 @@
+# 00 Notes
+
+We started the lesson with an intro to keyboards and Anki. Our goal is to get practice with ...
